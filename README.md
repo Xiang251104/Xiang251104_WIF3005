@@ -7,4 +7,4 @@ I'm interested in building practical software and want to get better at working 
 - **Fun fact**: Human head weight 8 pounds 
 - **Course expectations**: To gain hands-on experience maintaining, refactoring and evolving existing software, and to get comfortable with collaborative workflows like code reviews and pull requests.
 
-![Image](wif3005.jpg)
+   ![Image](wif3005.jpeg)
